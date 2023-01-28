@@ -1,6 +1,6 @@
 package rewards;
 
-/**
+/**Montrell Story
  * Rewards a member account for dining at a restaurant.
  * 
  * A reward takes the form of a monetary contribution made to an account that is distributed among the account's
